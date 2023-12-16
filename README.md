@@ -27,9 +27,9 @@ This To-Do List application is a simple web-based task management tool built usi
    Download and install XAMPP from [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html).
 
 2. Clone the Repository:
-   ```bash
-   git clone [https://github.com/your-username/todo-list.git](https://github.com/KathyayiniKamath/workshop-DBMS-.git)
-   ```
+   
+   git clone (https://github.com/KathyayiniKamath/workshop-DBMS-.git)
+  
 
 3. Move Files to XAMPP Directory:
    Move the cloned repository to the XAMPP's "htdocs" directory.
