@@ -1,8 +1,8 @@
-To-Do List Application
+##To-Do List Application
 
 This To-Do List application is a simple web-based task management tool built using HTML, CSS for the front end, and MySQL with PHP for the backend. The application is designed to run on the XAMPP server.
 
- Table of Contents
+ ##Table of Contents
 
 - [Features](#features)
 - [Requirements](#requirements)
@@ -11,13 +11,13 @@ This To-Do List application is a simple web-based task management tool built usi
 - [Contributing](#contributing)
 - [License](#license)
 
- Features
+ ##Features
 
 - Add, edit, and delete tasks.
 - Mark tasks as completed.
 - Simple and intuitive user interface.
 
- Requirements
+ ##Requirements
 
 - [XAMPP](https://www.apachefriends.org/index.html): XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends. It includes Apache HTTP Server, MariaDB database, and interpreters for scripts written in PHP.
 
@@ -40,7 +40,7 @@ This To-Do List application is a simple web-based task management tool built usi
    - Create a new database named `todo_list`.
    - Import the SQL file located in the `database` directory.
 
-Usage
+##Usage
 
 1. Start the XAMPP server.
 2. Open your web browser and navigate to `http://localhost/todo-list`.
@@ -51,7 +51,7 @@ Usage
    - Delete tasks.
 
 
-Contributing
+##Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to create a pull request.
 
